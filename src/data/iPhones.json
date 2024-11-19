@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone (第一代)",
+    "year": 2007,
+    "image": "/images/iphone1.jpg",
+    "features": [
+      "多點觸控",
+      "2MP 相機",
+      "4/8/16GB 存儲"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "iPhone 3G",
+    "year": 2008,
+    "image": "/images/iphone3g.jpg",
+    "features": [
+      "3G 網絡",
+      "App Store 支持",
+      "8/16GB 存儲"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "iPhone 3GS",
+    "year": 2009,
+    "image": "/images/iphone3gs.jpg",
+    "features": [
+      "速度提升",
+      "3MP 相機",
+      "16/32GB 存儲"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "iPhone 4",
+    "year": 2010,
+    "image": "/images/iphone4.jpg",
+    "features": [
+      "Retina 顯示屏",
+      "5MP 相機",
+      "16/32GB 存儲"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "iPhone 4S",
+    "year": 2011,
+    "image": "/images/iphone4s.jpg",
+    "features": [
+      "Siri",
+      "8MP 相機",
+      "16/32/64GB 存儲"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "iPhone 5",
+    "year": 2012,
+    "image": "/images/iphone5.jpg",
+    "features": [
+      "更大屏幕",
+      "Lightning 接口",
+      "16/32/64GB 存儲"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "iPhone 5S",
+    "year": 2013,
+    "image": "/images/iphone5s.jpg",
+    "features": [
+      "Touch ID",
+      "64 位處理器",
+      "16/32/64GB 存儲"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "iPhone 6",
+    "year": 2014,
+    "image": "/images/iphone6.jpg",
+    "features": [
+      "更大屏幕",
+      "Apple Pay 支持",
+      "16/64/128GB 存儲"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "iPhone 6S",
+    "year": 2015,
+    "image": "/images/iphone6s.jpg",
+    "features": [
+      "3D Touch",
+      "12MP 相機",
+      "16/64/128GB 存儲"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "iPhone 7",
+    "year": 2016,
+    "image": "/images/iphone7.jpg",
+    "features": [
+      "防水設計",
+      "無耳機接口",
+      "32/128/256GB 存儲"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "iPhone 8",
+    "year": 2017,
+    "image": "/images/iphone8.jpg",
+    "features": [
+      "玻璃機身",
+      "無線充電",
+      "64/256GB 存儲"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "iPhone X",
+    "year": 2017,
+    "image": "/images/iphonex.jpg",
+    "features": [
+      "全面屏設計",
+      "Face ID",
+      "64/256GB 存儲"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "iPhone XS",
+    "year": 2018,
+    "image": "/images/iphonexs.jpg",
+    "features": [
+      "Super Retina 顯示屏",
+      "A12 仿生芯片",
+      "64/256/512GB 存儲"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "iPhone 11",
+    "year": 2019,
+    "image": "/images/iphone11.jpg",
+    "features": [
+      "超廣角相機",
+      "夜間模式",
+      "64/128/256GB 存儲"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "iPhone 12",
+    "year": 2020,
+    "image": "/images/iphone12.jpg",
+    "features": [
+      "5G 支持",
+      "MagSafe 技術",
+      "64/128/256GB 存儲"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "iPhone 13",
+    "year": 2021,
+    "image": "/images/iphone13.jpg",
+    "features": [
+      "A15 仿生芯片",
+      "超瓷晶玻璃屏幕",
+      "128/256/512GB 存儲"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "iPhone 14",
+    "year": 2022,
+    "image": "/images/iphone14.jpg",
+    "features": [
+      "更強的夜間攝影",
+      "Crash Detection",
+      "128/256/512GB 存儲"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "iPhone 15",
+    "year": 2023,
+    "image": "/images/iphone15.jpg",
+    "features": [
+      "A17 Pro 芯片",
+      "USB-C 接口",
+      "128/256/512GB/1TB 存儲"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "iPhone 16",
+    "year": 2024,
+    "image": "/images/iphone16.jpg",
+    "features": [
+      "A18 仿生芯片",
+      "全新設計",
+      "2TB 存儲"
+    ]
+    }
+  ]
+  
