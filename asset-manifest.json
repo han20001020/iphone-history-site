@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/iphone-history-site/static/css/main.61df0420.css",
-    "main.js": "/iphone-history-site/static/js/main.cb656641.js",
-    "index.html": "/iphone-history-site/index.html",
-    "main.61df0420.css.map": "/iphone-history-site/static/css/main.61df0420.css.map",
-    "main.cb656641.js.map": "/iphone-history-site/static/js/main.cb656641.js.map"
+    "main.css": "/static/css/main.61df0420.css",
+    "main.js": "/static/js/main.cb656641.js",
+    "index.html": "/index.html",
+    "main.61df0420.css.map": "/static/css/main.61df0420.css.map",
+    "main.cb656641.js.map": "/static/js/main.cb656641.js.map"
   },
   "entrypoints": [
     "static/css/main.61df0420.css",
