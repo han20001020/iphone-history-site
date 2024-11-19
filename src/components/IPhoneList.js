@@ -6,7 +6,7 @@ function IPhoneList() {
   return (
     <div>
       <div style={{
-  backgroundColor: 'rgba(0, 0, 0, 0.5)', // 半透明黑色背景
+  backgroundColor: 'rgba(0, 0, 0, 0.5)', 
   padding: '10px 20px',
   borderRadius: '8px',
   display: 'inline-block',
@@ -14,9 +14,9 @@ function IPhoneList() {
 }}></div>
     <h1 style={{
   fontSize: '2.5rem',
-  color: 'white', // 確保文字為白色
+  color: 'white', 
   textAlign: 'center',
-  textShadow: '2px 2px 4px rgba(0, 0, 0, 0.8)', // 添加陰影
+  textShadow: '2px 2px 4px rgba(0, 0, 0, 0.8)', 
 }}>
   歷代 iPhone 一覽
 </h1>

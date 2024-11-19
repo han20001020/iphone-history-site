@@ -91,15 +91,15 @@
 .iphone-card:hover {
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
 }
-/* 全局字體與頁面背景 */
+
 body {
   font-family: Arial, sans-serif;
-  background-color: #f9f9f9; /* 輕灰背景 */
+  background-color: #f9f9f9; 
   margin: 0;
   padding: 0;
 }
 
-/* 頁面標題樣式 */
+
 h1 {
   text-align: center;
   font-size: 2rem;
@@ -107,7 +107,7 @@ h1 {
   color: #333;
 }
 
-/* 卡片區域的容器 */
+
 .iphone-list {
   display: flex;
   flex-wrap: wrap;
@@ -116,7 +116,7 @@ h1 {
   padding: 20px;
 }
 
-/* 卡片樣式 */
+
 .iphone-card {
   background: white;
   border: 1px solid #ddd;
@@ -128,21 +128,21 @@ h1 {
   transition: transform 0.3s, box-shadow 0.3s;
 }
 
-/* 卡片的圖片 */
+
 .iphone-card img {
   max-width: 100%;
   border-radius: 5px;
   margin-bottom: 10px;
 }
 
-/* 卡片的標題 */
+
 .iphone-card h2 {
   font-size: 1.2rem;
   color: #333;
   margin-bottom: 10px;
 }
 
-/* 卡片按鈕樣式 */
+
 .iphone-card button {
   background-color: #007bff;
   color: white;
@@ -154,12 +154,12 @@ h1 {
   transition: background-color 0.3s;
 }
 
-/* 按鈕懸停效果 */
+
 .iphone-card button:hover {
   background-color: #0056b3;
 }
 
-/* 卡片懸停效果 */
+
 .iphone-card:hover {
   transform: translateY(-5px);
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);

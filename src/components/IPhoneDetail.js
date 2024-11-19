@@ -12,13 +12,13 @@ function IPhoneDetail() {
 
   return (
     <div style={{
-      backgroundColor: 'rgba(255, 255, 255, 0.1)', // 卡片半透明背景
+      backgroundColor: 'rgba(255, 255, 255, 0.1)', 
       padding: '20px',
-      borderRadius: '10px', // 卡片圓角
-      boxShadow: '0px 4px 15px rgba(0, 0, 0, 0.2)', // 卡片陰影
-      maxWidth: '600px', // 控制卡片寬度
-      margin: '20px auto', // 居中顯示
-      textAlign: 'center', // 居中對齊
+      borderRadius: '10px', 
+      boxShadow: '0px 4px 15px rgba(0, 0, 0, 0.2)', 
+      maxWidth: '600px', 
+      margin: '20px auto', 
+      textAlign: 'center', 
     }}>
       <h1 style={{
         fontSize: '2.5rem',
