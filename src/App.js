@@ -7,7 +7,7 @@ import IPhoneDetail from './components/IPhoneDetail';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/iphone-history-site">
       <Navbar /> { }
       <Routes>
         <Route path="/" element={<Home />} />
